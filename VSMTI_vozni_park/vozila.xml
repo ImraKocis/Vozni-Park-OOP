@@ -1,0 +1,16 @@
+<dataset>
+    <Vozila>
+        <Vozilo tip="Automobil" id="1" naziv="BMW 318d" datum_reg="03-05-2020"/>
+        <Vozilo tip="Motocikl" id="3" naziv="Yamaha R1" datum_reg="20-01-2020"/>
+        <Vozilo tip="Motocikl" id="666" naziv="Kawasaki H2" datum_reg="02-02-2020"/>
+        <Vozilo tip="Radni stroj" id="4" naziv="Bager JCB" datum_reg="21-01-2020"/>
+        <Vozilo tip="Radni stroj" id="16" naziv="CAT" datum_reg="19-06-2020"/>
+        <Vozilo tip="Automobil" id="5" naziv="Mercedes E220" datum_reg="05-02-2020"/>
+        <Vozilo tip="Kamion" id="6" naziv="MAN TGX" datum_reg="05-05-2020"/>
+        <Vozilo tip="Automobil" id="125" naziv="Golf VII" datum_reg="28-02-2020"/>
+        <Vozilo tip="Kamion" id="126" naziv="Scania S730" datum_reg="30-01-2020"/>
+        <Vozilo tip="Motocikl" id="19" naziv="Honda CBR" datum_reg="05-08-2019"/>
+        <Vozilo tip="Radni stroj" id="50" naziv="Mikser" datum_reg="19-06-2020"/>
+        <Vozilo tip="Radni stroj" id="51" naziv="Bager" datum_reg="18-06-2020"/>
+    </Vozila>
+</dataset>

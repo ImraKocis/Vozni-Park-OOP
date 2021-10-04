@@ -1,0 +1,35 @@
+﻿  Main.cpp
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(267,33): warning C4101: 'i_ID': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(340,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(423,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(506,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(589,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(677,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(662,33): warning C4101: 'i_ID': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(745,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(778,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(888,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(980,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1047,9): warning C4101: 'Bound': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1128,33): warning C4101: 'i_ID': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1210,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1320,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1369,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1310,33): warning C4101: 'i_ID': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1383,6): warning C4101: 'i_ID2': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1437,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1482,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1518,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1472,33): warning C4101: 'i_ID': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1558,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1602,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1605,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1641,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1644,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Imra\source\repos\VSMTI_vozni_park\VSMTI_vozni_park\Main.cpp(1042): warning C4715: 'Main::Switch_ERROR_message_ALERT': not all control paths return a value
+  VSMTI_vozni_park.vcxproj -> C:\Users\Imra\source\repos\VSMTI_vozni_park\Debug\VSMTI_vozni_park.exe

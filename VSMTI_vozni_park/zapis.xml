@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Zapis>
+        <Zaduzivanje zaposlenik_id="161" vozilo_id="125" datum="17-06-2020"/>
+        <Zaduzivanje zaposlenik_id="160" vozilo_id="1" datum="19-06-2020"/>
+    </Zapis>
+    <Zapis_Sve>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="150" vozilo_id="1" datum="20-05-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="155" vozilo_id="4" datum="20-05-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="150" vozilo_id="1" datum="20-06-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="150" vozilo_id="1" datum="17-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="150" vozilo_id="1" datum="18-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="161" vozilo_id="16" datum="18-06-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="161" vozilo_id="16" datum="19-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="160" vozilo_id="16" datum="03-05-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="150" vozilo_id="1" datum="15-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="150" vozilo_id="125" datum="16-06-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="160" vozilo_id="16" datum="18-06-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="150" vozilo_id="125" datum="18-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="160" vozilo_id="6" datum="14-05-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="160" vozilo_id="6" datum="18-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="155" vozilo_id="126" datum="04-05-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="155" vozilo_id="126" datum="15-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="161" vozilo_id="125" datum="17-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="160" vozilo_id="19" datum="04-05-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="160" vozilo_id="19" datum="15-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="150" vozilo_id="50" datum="19-06-2020"/>
+        <Akcije tip_akcije="Zaduzivanje" zaposlenik_id="160" vozilo_id="1" datum="19-06-2020"/>
+        <Akcije tip_akcije="Vracanje" zaposlenik_id="150" vozilo_id="50" datum="20-06-2020"/>
+    </Zapis_Sve>
+</dataset>

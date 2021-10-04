@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <Zaposlenici>
+    <Zaposlenik
+      id ="150"
+      ime="Preo"
+      prezime="Peric"
+      oib="12345678901">
+    </Zaposlenik>
+    <Zaposlenik
+      id ="155"
+      ime ="Mato"
+      prezime="Matic"
+      oib ="12345678902">   
+    </Zaposlenik>
+    <Zaposlenik
+      id ="161"
+      ime ="Ivan"
+      prezime="Ivic"
+      oib ="12345678903">
+    </Zaposlenik>
+    <Zaposlenik
+      id ="160"
+      ime ="Mirko"
+      prezime="Agotic"
+      oib ="12345678904">
+    </Zaposlenik>
+  </Zaposlenici>
+</dataset>  
